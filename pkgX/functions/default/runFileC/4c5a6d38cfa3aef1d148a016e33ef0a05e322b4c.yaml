@@ -1,0 +1,18 @@
+kind: local
+metadata:
+  name: runFileC
+  project: default
+  categories: []
+  tag: ''
+  hash: 4c5a6d38cfa3aef1d148a016e33ef0a05e322b4c
+  updated: 2021-11-18 12:31:31.667279+00:00
+spec:
+  command: pkgA/runFileB.py testFuncB
+  args: []
+  image: ''
+  build:
+    commands: []
+  description: ''
+  disable_auto_mount: false
+verbose: false
+status: null

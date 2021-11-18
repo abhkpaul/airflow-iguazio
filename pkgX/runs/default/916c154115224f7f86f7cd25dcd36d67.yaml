@@ -1,0 +1,27 @@
+kind: run
+metadata:
+  name: runFileA
+  uid: 916c154115224f7f86f7cd25dcd36d67
+  iteration: 0
+  project: default
+  labels:
+    kind: local
+    owner: abhipaul
+  annotations: {}
+spec:
+  function: ''
+  log_level: info
+  parameters: {}
+  handler: null
+  outputs: []
+  output_path: ''
+  inputs: {}
+  hyperparams: {}
+  hyper_param_options: {}
+  data_stores: []
+status:
+  state: completed
+  results: {}
+  start_time: '2021-11-18T12:31:02.612148+00:00'
+  last_update: '2021-11-18T12:31:02.873949+00:00'
+  artifacts: []

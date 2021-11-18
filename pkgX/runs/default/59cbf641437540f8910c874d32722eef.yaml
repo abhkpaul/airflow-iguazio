@@ -1,0 +1,27 @@
+kind: run
+metadata:
+  name: runFileC
+  uid: 59cbf641437540f8910c874d32722eef
+  iteration: 0
+  project: default
+  labels:
+    kind: local
+    owner: abhipaul
+  annotations: {}
+spec:
+  function: default/runFileC@4c5a6d38cfa3aef1d148a016e33ef0a05e322b4c
+  log_level: info
+  parameters: {}
+  handler: null
+  outputs: []
+  output_path: ''
+  inputs: {}
+  hyperparams: {}
+  hyper_param_options: {}
+  data_stores: []
+status:
+  state: completed
+  results: {}
+  start_time: '2021-11-18T12:31:31.672280+00:00'
+  last_update: '2021-11-18T12:31:31.937070+00:00'
+  artifacts: []

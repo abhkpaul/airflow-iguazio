@@ -1,0 +1,31 @@
+kind: run
+metadata:
+  name: runFileA
+  uid: 1aecfdd6ef1548c4adcf2e175d936500
+  iteration: 0
+  project: default
+  labels:
+    kind: local
+    owner: abhipaul
+  annotations: {}
+spec:
+  function: ''
+  log_level: info
+  parameters: {}
+  handler: null
+  outputs: []
+  output_path: ''
+  inputs: {}
+  hyperparams: {}
+  hyper_param_options: {}
+  data_stores: []
+status:
+  state: error
+  results: {}
+  start_time: '2021-11-18T12:30:22.487895+00:00'
+  last_update: '2021-11-18T12:30:22.826984+00:00'
+  artifacts: []
+  error: 'C:\Users\abhipaul\Anaconda3\envs\igaf_py38\python.exe: can''t open file
+    ''pkgX/pkgA/runFileA.py'': [Errno 2] No such file or directory
+
+    '

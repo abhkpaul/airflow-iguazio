@@ -1,0 +1,11 @@
+setup.py
+airflow_iguazio.egg-info/PKG-INFO
+airflow_iguazio.egg-info/SOURCES.txt
+airflow_iguazio.egg-info/dependency_links.txt
+airflow_iguazio.egg-info/requires.txt
+airflow_iguazio.egg-info/top_level.txt
+pkgA/__init__.py
+pkgA/runFileA.py
+pkgA/runFileB.py
+pkgB/__init__.py
+pkgB/runFileC.py
